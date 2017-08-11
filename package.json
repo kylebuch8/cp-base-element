@@ -2,6 +2,10 @@
   "name": "cp-base-element",
   "version": "0.0.1",
   "description": "Base element for Customer Portal elements",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kylebuch8/cp-base-element.git"
+  },
   "main": "index.js",
   "scripts": {
     "prepublish": "gulp",
