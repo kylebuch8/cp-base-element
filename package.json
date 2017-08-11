@@ -8,9 +8,9 @@
   },
   "main": "index.js",
   "scripts": {
-    "prepublish": "gulp",
-    "postinstall": "gulp",
-    "build": "gulp"
+    "prepublish": "./node_modules/.bin/gulp",
+    "postinstall": "./node_modules/.bin/gulp",
+    "build": "./node_modules/.bin/gulp"
   },
   "author": "Kyle Buchanan",
   "license": "ISC",
