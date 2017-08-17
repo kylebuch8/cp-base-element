@@ -1,6 +1,6 @@
 {
   "name": "cp-base-element",
-  "version": "0.0.1",
+  "version": "0.0.6",
   "description": "Base element for Customer Portal elements",
   "repository": {
     "type": "git",
@@ -23,6 +23,8 @@
     "gulp-babel": "^6.1.2",
     "gulp-html-minifier": "^0.1.8",
     "gulp-if": "^2.0.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.6.1",
     "gulp-uglify": "^3.0.0",
     "polymer-build": "^2.0.0"
   }
